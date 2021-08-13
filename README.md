@@ -1,0 +1,2 @@
+# Location-based-Privacy-Protection
+Location based services are increasingly popular in providing users with useful information about their hereabouts and recommending eateries and other services based on their location. These services depend on data utility (usability of the data) which is paramount in providing accurate recommendations and locations. However, the higher the data utility, the lower the user privacy. User location privacy depends on mechanisms such as cloaking, ‘data noise’ and data aggregation to hide the user in amongst other data points.
